@@ -1,6 +1,6 @@
 # grup
 
-A rust-based grep CLI .
+A rust-based grep CLI.
 
 ---
 
